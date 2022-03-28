@@ -1,4 +1,4 @@
-# 修改 SST7789 Library，讓 LinkIt 7697 能夠支援
+#修改 SST7789 Library，讓 LinkIt 7697 能夠支援
 
 - 使用 ESP Gyro 擴充板+ 7697_EXT 轉板來驗證
 
