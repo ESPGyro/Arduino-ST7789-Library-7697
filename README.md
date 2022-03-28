@@ -1,4 +1,4 @@
-#修改 SST7789 Library，讓 LinkIt 7697 能夠支援
+# 修改 SST7789 Library，讓 LinkIt 7697 能夠支援
 
 ![GITHUB] (https://github.com/ESPGyro/Arduino-ST7789-Library-7697/blob/main/7697_st7789_demo-20.jpg "test")
 
